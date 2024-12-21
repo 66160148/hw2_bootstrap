@@ -11,6 +11,7 @@ body {
 }
 .navbar {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.144);
+    background-color: #3d98ee73 !important;
 }
 
 .navbar-brand {
