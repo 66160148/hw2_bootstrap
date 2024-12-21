@@ -9,3 +9,29 @@ body {
     line-height: 1.6;
 
 }
+.navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.144);
+}
+
+.navbar-brand {
+    font-size: 40px;
+    font-weight: bold;
+    color: #060149 !important;
+}
+
+.nav-link {
+    font-size: 16px;
+    color: #060149 !important;
+}
+
+.nav-link:hover {
+    color: #060149 !important;
+}
+
+.form-control {
+    border-radius: 20px;
+}
+
+.btn-outline-success {
+    border-radius: 20px;
+}
