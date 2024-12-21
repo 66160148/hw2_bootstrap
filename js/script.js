@@ -1,7 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const filters = document.querySelectorAll('.filter-btn');
-    const items = document.querySelectorAll('.gallery-item');
-
+    const toggler = document.querySelector(".navbar-toggler");
+    const togglerIcon = document.querySelector(".navbar-toggler-icon");
+    toggler.addEventListener("click", function () {
+        togglerIcon.classList.toggle("open");
+    });
     filters.forEach(filter => {
         filter.addEventListener('click', () => {
             // Remove 'active' class from all buttons
