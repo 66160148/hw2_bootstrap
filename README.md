@@ -13,3 +13,5 @@
 - git commit -m "เพิ่มหน้า Home About Contact"
 - git commit -m "เพิ่มข้อมูลสถานที่ท่องเที่ยว"
 - git commit -m "เพิ่มข้อมูลลิ้งค์ความสำคัญ"
+- git commit -m "เพิ่มหัวเรื่องหน้าcontact"
+- git commit -m "เพิ่มเนื้อหาหน้าcomtact" 
