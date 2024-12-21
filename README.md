@@ -27,3 +27,5 @@
 - git commit -m "เพิ่มการตั้งค่าoverlay"
 - git commit -m "เพิ่มรูปเข้าโฟลเดอร์"
 - git commit -m "แก้ไขindex"
+- git commit -m "แก้ไขstyle"
+- git commit -m "แก้ไขstyleเพิ่มช่องว่าง"
