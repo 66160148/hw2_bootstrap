@@ -23,4 +23,5 @@
 - git commit -m "เพิ่มการตั้งค่าสไตล์ของการ์ด"
 - git commit -m "เพิ่มการตั้งค่าContact" 
 - git commit -m "เพิ่มการตั้งค่าFooter"
-- 
+- git commit -m "เพิ่มoverlayหน้าindex"
+- git commit -m "เพิ่มการตั้งค่าoverlay" 
