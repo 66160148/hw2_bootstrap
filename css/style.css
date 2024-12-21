@@ -35,3 +35,12 @@ body {
 .btn-outline-success {
     border-radius: 20px;
 }
+.carousel-inner img {
+    height: 400px;
+    object-fit: fill;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+}
