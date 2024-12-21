@@ -5,7 +5,7 @@
 - git commit -m "สร้างไฟล์เริ่มต้น"
 - git add images
 - git commit -m "เพิ่มรูปเข้าโฟลเดอร์"
-- git add .
 - git commit -m "เพิ่มหัวเรื่อง"
-- git add .
 - git commit -m "เพิ่มรูปการแนะนำ"
+- git commit -m "เพิ่มข้อมูลของรูปภาพ"
+- 
