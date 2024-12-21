@@ -45,6 +45,9 @@ body {
 .carousel-control-next-icon {
     filter: invert(1);
 }
+#heroCarousel {
+    margin: 20px 0; /* เพิ่มพื้นที่บนและล่าง */
+}
 .card {
     border: none;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
