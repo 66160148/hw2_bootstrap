@@ -29,3 +29,5 @@
 - git commit -m "แก้ไขindex"
 - git commit -m "แก้ไขstyle"
 - git commit -m "แก้ไขstyleเพิ่มช่องว่าง"
+- git commit -m "แก้ไข้style"
+- 
