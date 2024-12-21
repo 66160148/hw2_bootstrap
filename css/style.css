@@ -54,20 +54,6 @@ body {
 .navbar-nav .nav-link:hover::after {
     width: 100%;
 }
-.navbar-toggler {
-    border: none; /* ลบกรอบรอบ hamburger */
-    outline: none;
-}
-
-.navbar-toggler-icon {
-    transition: transform 0.3s ease-in-out; /* การเคลื่อนไหวระหว่างการเปลี่ยน */
-}
-
-.navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
-    transform: rotate(45deg); /* เปลี่ยนหมุนเป็นกากบาท */
-    background-color: #ff0000; /* เปลี่ยนสี (ปรับได้) */
-}
-
 
 .form-control {
     border-radius: 20px;
